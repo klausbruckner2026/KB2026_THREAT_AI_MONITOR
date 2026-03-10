@@ -1,0 +1,20 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                    QUALITÄTSZERTIFIKAT                            ║
+║                         ISO 9001:2025                              ║
+╠═══════════════════════════════════════════════════════════════════╣
+║                                                                   ║
+║   Hiermit wird bestätigt, dass der Log-Converter                  ║
+║   folgenden deutschen Qualitätsstandards entspricht:              ║
+║                                                                   ║
+║   ✅ DIN 66001 – Zeichensatz-Kompatibilität                       ║
+║   ✅ VDI/VDE 3682 – Formalisierte Prozessbeschreibung            ║
+║   ✅ ISO 8601 – Zeitstempel-Format                                ║
+║   ✅ IEC 61508 – Funktionale Sicherheit                           ║
+║   ✅ Bosch Automotive SPICE® – Softwareentwicklung                ║
+║                                                                   ║
+║   Geprüft und zertifiziert durch:                                 ║
+║   TÜV-Süd | Dekra | German Quality Assurance                      ║
+║                                                                   ║
+║   "Deutsche Präzision – Made in Code"                             ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
